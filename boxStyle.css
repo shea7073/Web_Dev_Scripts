@@ -1,0 +1,21 @@
+p {
+
+width: 50%;
+/* or 50px ie, can also use  height*/
+
+
+border: 2px solid blue;
+
+/*padding: 10px;
+*/
+
+padding-left: 40px;
+
+/*margin: 100px;*/
+
+/*margin-left: 50px;*/
+
+/*margin: 20px, 30px, 40px,50px;
+*/
+margin: 0 auto;
+}

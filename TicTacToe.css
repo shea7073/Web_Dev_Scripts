@@ -1,0 +1,63 @@
+h1 {
+	text-align: center;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+#box1 {
+	
+	padding: 50px;
+	margin: 0px;
+}
+
+#box2 {
+	border-left: solid black 2px;
+	border-right: solid black 2px;
+	padding: 50px;
+	margin: 0px;
+}
+
+#box3 {
+	
+	padding: 50px;
+	margin: 0px;
+}
+
+#box4 {
+	border-top: solid black 2px;
+	border-bottom: solid black 2px;
+	padding: 50px;
+}
+
+#box5 {
+	border-top: solid black 2px;
+	border-bottom: solid black 2px;
+	border-left: solid black 2px;
+	border-right: solid black 2px;
+	padding: 50px;
+}
+
+#box6 {
+	border-top: solid black 2px;
+	border-bottom: solid black 2px;
+	padding: 50px;
+}
+
+#box7 {
+	
+	padding: 50px;
+}
+
+#box8 {
+	border-left: solid black 2px;
+	border-right: solid black 2px;
+	padding: 50px;
+}
+
+#box9 {
+	
+	padding: 50px;
+}

@@ -1,0 +1,16 @@
+body {
+	background: orange;
+}
+
+li{
+	border: solid red 5px;
+}
+
+#special {
+	background: yellow;
+	color: blue;
+}
+
+.completed {
+	text-decoration: line-through;
+}
